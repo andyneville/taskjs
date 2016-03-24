@@ -1,0 +1,47 @@
+{
+  "name": "taskjs",
+  "version": "0.1.0",
+  "description": "Task.js - JavaScript Task Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/andyneville/taskjs.git"
+  },
+  "keywords": [
+    "task"
+  ],
+  "author": "Andy Neville <andyneville@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andyneville/taskjs/issues"
+  },
+  "homepage": "https://github.com/andyneville/taskjs#readme",
+  "dependencies": {
+    "later": "^1.2.0",
+    "lodash": "^4.6.1"
+  },
+  "devDependencies": {
+    "browserify": "^10.2.6",
+    "browserify-shim": "^3.8.9",
+    "grunt": "^0.4.5",
+    "grunt-browserify": "^3.8.0",
+    "grunt-contrib-jshint": "^0.11.3",
+    "grunt-contrib-uglify": "^0.9.1",
+    "grunt-jsdoc": "^0.6.8",
+    "grunt-karma": "^0.12.1",
+    "grunt-mocha-test": "^0.12.7",
+    "jit-grunt": "^0.9.1",
+    "jsdoc": "^3.3.3",
+    "karma": "^0.13.0",
+    "karma-browserify": "^4.2.1",
+    "karma-chrome-launcher": "^0.2.0",
+    "karma-firefox-launcher": "^0.1.6",
+    "karma-mocha": "^0.2.0",
+    "karma-safari-launcher": "^0.1.1",
+    "mocha": "^2.4.5",
+    "time-grunt": "^1.2.1"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "taskjs",
+  "description": "Task.js - JavaScript Task Library",
+  "main": "index.js",
+  "authors": [
+    "Andy Neville <andyneville@gmail.com>"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "task"
+  ],
+  "homepage": "https://github.com/andyneville/taskjs",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "later": "^1.2.0",
+    "lodash": "^4.6.1"
+  }
+}
